@@ -1,27 +1,129 @@
+<div align="center">
+
 # Best APIs for Lead Gen
 
-A curated, builder-focused directory of APIs and data services for lead generation products, automations, agency offers, and outbound research workflows.
+**A curated API directory for building lead generation products, automations, agency services, and outbound research workflows.**
 
-This is not a general API mega-list. It is a practical shortlist for people who want to find prospects, enrich records, validate contact data, monitor buying signals, and turn public business data into useful lead generation systems.
+[![Curated APIs](https://img.shields.io/badge/Curated_APIs-30-2563eb?style=for-the-badge)](apis/)
+[![Workflows](https://img.shields.io/badge/Workflows-10-16a34a?style=for-the-badge)](workflows/)
+[![Playbooks](https://img.shields.io/badge/Playbooks-10-f97316?style=for-the-badge)](playbooks/)
+[![Categories](https://img.shields.io/badge/Categories-12-9333ea?style=for-the-badge)](categories/)
+[![Focus](https://img.shields.io/badge/Focus-Lead_Generation-111827?style=for-the-badge)](#what-counts-as-lead-gen-here)
+
+<br>
+
+<a href="https://github.com/cporter202/best-apis-for-lead-gen/stargazers">
+  <img src="https://img.shields.io/github/stars/cporter202/best-apis-for-lead-gen?style=social" alt="GitHub stars">
+</a>
+<a href="https://github.com/cporter202/best-apis-for-lead-gen/network/members">
+  <img src="https://img.shields.io/github/forks/cporter202/best-apis-for-lead-gen?style=social" alt="GitHub forks">
+</a>
+
+<br><br>
+
+<a href="apis/"><strong>Browse APIs</strong></a>
+&nbsp;|&nbsp;
+<a href="workflows/"><strong>Explore Workflows</strong></a>
+&nbsp;|&nbsp;
+<a href="playbooks/"><strong>Browse Playbooks</strong></a>
+&nbsp;|&nbsp;
+<a href="categories/"><strong>Use Case Index</strong></a>
+
+</div>
+
+---
+
+## The Short Version
+
+This repo is a practical shortlist for builders who want to find prospects, enrich records, validate contact data, monitor buying signals, and turn public business data into useful lead generation systems.
+
+It is intentionally not a giant generic API dump. Every API here should help you build something closer to revenue: a lead list, enrichment workflow, prospecting dashboard, agency offer, outbound research assistant, or niche SaaS product.
+
+## GitHub About Tags
+
+Use these as GitHub repository topics:
+
+`lead-generation` `apis` `prospecting` `sales-automation` `b2b-sales` `data-enrichment` `email-finder` `web-scraping` `outbound-sales` `local-business` `ecommerce-leads` `job-signals` `intent-data` `crm-enrichment`
+
+## Why This Repo Exists
+
+Most API directories optimize for size. Lead generation builders need something different: APIs grouped by business use case, practical workflow fit, data quality risk, and monetization potential.
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Find leads</strong><br>
+      Maps, directories, marketplaces, startups, jobs, properties, and public profiles.
+    </td>
+    <td width="33%">
+      <strong>Enrich records</strong><br>
+      Emails, phones, social links, company data, technology stacks, and qualification fields.
+    </td>
+    <td width="33%">
+      <strong>Spot timing</strong><br>
+      Hiring, funding, reviews, social intent, marketplace activity, and service demand.
+    </td>
+  </tr>
+</table>
 
 ## Who This Is For
 
-- Founders building lead generation SaaS products
-- Agencies building prospecting and enrichment services
-- Sales operators designing repeatable outbound workflows
-- Automation specialists connecting scrapers, enrichment APIs, CRMs, and outreach tools
-- Builders who want API-backed software ideas with a clear monetization angle
+| Builder | What You Can Use This For |
+| --- | --- |
+| Founders | Build lead gen SaaS, enrichment tools, data products, or prospecting dashboards |
+| Agencies | Create repeatable local, ecommerce, startup, contractor, and B2B lead services |
+| Sales operators | Design outbound workflows with cleaner inputs and better trigger signals |
+| Automation specialists | Connect scrapers, enrichment APIs, validators, CRMs, and outreach tools |
+| Builders | Find practical API-backed software ideas with monetization paths |
 
 ## What Counts As Lead Gen Here
 
-An API belongs in this repo only if it helps with at least one of these jobs:
+An API belongs in this repo only if it helps with one or more of these jobs:
 
-- Discover businesses, sellers, creators, properties, jobs, or companies worth contacting
-- Extract company, website, directory, marketplace, or social profile data
-- Find or enrich emails, phone numbers, social links, decision makers, or company details
-- Validate or clean contact records before outreach
-- Detect signals such as hiring, funding, technology usage, reviews, marketplace activity, or public demand
-- Support a practical outbound, research, qualification, or CRM workflow
+| Job | Examples |
+| --- | --- |
+| Discover prospects | Businesses, sellers, creators, properties, jobs, startups, or companies worth contacting |
+| Extract useful data | Company pages, websites, directories, marketplaces, public profiles, reviews, or job posts |
+| Enrich records | Emails, phones, social links, decision makers, company data, funding, or technology usage |
+| Validate contacts | Email hygiene, duplicate removal, source confidence, or outreach readiness |
+| Monitor signals | Hiring, funding, reviews, technology changes, public demand, or social intent |
+| Support workflows | Prospect research, qualification, routing, CRM enrichment, or outbound prep |
+
+## Quick Navigation
+
+| Section | What You Get |
+| --- | --- |
+| [apis/](apis/) | Curated API profiles with use cases, strengths, weaknesses, pricing notes, and workflow fit |
+| [workflows/](workflows/) | Practical ways to combine APIs into lead generation systems |
+| [playbooks/](playbooks/) | SaaS, agency, data product, and service ideas you can build around the APIs |
+| [categories/](categories/) | API indexes by use case, including local, ecommerce, job signals, enrichment, and intent |
+| [templates/](templates/) | Reusable templates for adding new APIs, workflows, playbooks, and categories |
+| [resources/](resources/) | Curation criteria, enrichment strategy, scoring model, and compliance notes |
+
+## Builder Paths
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Local agency engine</strong><br>
+      Scrape maps and directories, enrich contacts, validate emails, and sell niche local lead packs.
+      <br><br>
+      <a href="workflows/local-business-lead-machine.md">Open workflow</a>
+    </td>
+    <td width="33%">
+      <strong>B2B signal engine</strong><br>
+      Monitor hiring, funding, reviews, and public intent to prioritize accounts with a timely reason to buy.
+      <br><br>
+      <a href="workflows/hiring-signal-outbound-workflow.md">Open workflow</a>
+    </td>
+    <td width="33%">
+      <strong>Enrichment engine</strong><br>
+      Turn company domains into validated contacts, company context, fit scores, and CRM-ready records.
+      <br><br>
+      <a href="workflows/waterfall-enrichment-workflow.md">Open workflow</a>
+    </td>
+  </tr>
+</table>
 
 ## Featured API Shortlist
 
@@ -47,29 +149,33 @@ See the full curated list in [apis/](apis/).
 
 ## Featured Workflows
 
-- [Local business lead machine](workflows/local-business-lead-machine.md)
-- [Ecommerce seller prospecting engine](workflows/ecommerce-seller-prospecting-engine.md)
-- [Hiring signal outbound workflow](workflows/hiring-signal-outbound-workflow.md)
-- [Technology stack prospecting workflow](workflows/technology-stack-prospecting-workflow.md)
-- [Startup founder prospecting workflow](workflows/startup-founder-prospecting-workflow.md)
-- [Review-triggered sales workflow](workflows/review-triggered-sales-workflow.md)
-- [Real estate investor lead workflow](workflows/real-estate-investor-lead-workflow.md)
-- [Intent research to outreach workflow](workflows/intent-research-to-outreach-workflow.md)
-- [Directory mining workflow](workflows/directory-mining-workflow.md)
-- [Waterfall enrichment workflow](workflows/waterfall-enrichment-workflow.md)
+| Workflow | Goal | Best For |
+| --- | --- | --- |
+| [Local business lead machine](workflows/local-business-lead-machine.md) | Scrape local businesses, enrich contacts, validate, and qualify | Local agencies |
+| [Ecommerce seller prospecting engine](workflows/ecommerce-seller-prospecting-engine.md) | Find marketplace sellers and prepare outreach lists | Ecommerce agencies |
+| [Hiring signal outbound workflow](workflows/hiring-signal-outbound-workflow.md) | Use job postings as buying signals | Recruiters and B2B services |
+| [Technology stack prospecting workflow](workflows/technology-stack-prospecting-workflow.md) | Segment prospects by website technologies | SaaS and migration offers |
+| [Startup founder prospecting workflow](workflows/startup-founder-prospecting-workflow.md) | Build founder and startup account lists | Startup-focused sellers |
+| [Review-triggered sales workflow](workflows/review-triggered-sales-workflow.md) | Turn public review pain into account research | Reputation and CX offers |
+| [Real estate investor lead workflow](workflows/real-estate-investor-lead-workflow.md) | Find and qualify FSBO or property leads | Investors and agents |
+| [Intent research to outreach workflow](workflows/intent-research-to-outreach-workflow.md) | Monitor public discussions for pain and demand | Social selling |
+| [Directory mining workflow](workflows/directory-mining-workflow.md) | Convert niche directories into clean lists | Data services |
+| [Waterfall enrichment workflow](workflows/waterfall-enrichment-workflow.md) | Improve lead completeness across multiple APIs | RevOps and enrichment tools |
 
 ## Featured Playbooks
 
-- [Local lead scraper for agencies](playbooks/local-lead-scraper-for-agencies.md)
-- [Contractor lead intelligence dashboard](playbooks/contractor-lead-intelligence-dashboard.md)
-- [Ecommerce brand prospecting tool](playbooks/ecommerce-brand-prospecting-tool.md)
-- [Recruiter lead sourcing assistant](playbooks/recruiter-lead-sourcing-assistant.md)
-- [Real estate investor lead finder](playbooks/real-estate-investor-lead-finder.md)
-- [B2B outbound research assistant](playbooks/b2b-outbound-research-assistant.md)
-- [Niche directory mining service](playbooks/niche-directory-mining-service.md)
-- [Signal-based outreach assistant](playbooks/signal-based-outreach-assistant.md)
-- [Startup account intelligence tool](playbooks/startup-account-intelligence-tool.md)
-- [Review monitoring lead engine](playbooks/review-monitoring-lead-engine.md)
+| Playbook | Customer | Monetization Angle |
+| --- | --- | --- |
+| [Local lead scraper for agencies](playbooks/local-lead-scraper-for-agencies.md) | Local agencies | SaaS, lead packs, white-label exports |
+| [Contractor lead intelligence dashboard](playbooks/contractor-lead-intelligence-dashboard.md) | Contractor-focused agencies | Monthly dashboard or market reports |
+| [Ecommerce brand prospecting tool](playbooks/ecommerce-brand-prospecting-tool.md) | Ecommerce agencies and SaaS teams | Subscription or pay-per-export |
+| [Recruiter lead sourcing assistant](playbooks/recruiter-lead-sourcing-assistant.md) | Recruiters and staffing firms | Hiring-trigger alerts |
+| [Real estate investor lead finder](playbooks/real-estate-investor-lead-finder.md) | Investors and wholesalers | Market-based lead subscriptions |
+| [B2B outbound research assistant](playbooks/b2b-outbound-research-assistant.md) | B2B sales teams | Usage-based enrichment |
+| [Niche directory mining service](playbooks/niche-directory-mining-service.md) | Agencies and list buyers | Custom list building |
+| [Signal-based outreach assistant](playbooks/signal-based-outreach-assistant.md) | SaaS and consulting teams | Signal monitoring subscription |
+| [Startup account intelligence tool](playbooks/startup-account-intelligence-tool.md) | Startup-focused sellers | Account intelligence SaaS |
+| [Review monitoring lead engine](playbooks/review-monitoring-lead-engine.md) | Reputation and CX teams | Competitor complaint reports |
 
 ## Browse By Use Case
 
@@ -97,6 +203,14 @@ categories/  API indexes by lead generation use case
 templates/   Reusable templates for adding APIs, workflows, and playbooks
 resources/   Supporting strategy docs
 ```
+
+## Star History
+
+<div align="center">
+  <a href="https://www.star-history.com/#cporter202/best-apis-for-lead-gen&Date">
+    <img src="https://api.star-history.com/svg?repos=cporter202/best-apis-for-lead-gen&type=Date" alt="Star History Chart">
+  </a>
+</div>
 
 ## Curation Notes
 
