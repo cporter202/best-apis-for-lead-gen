@@ -2,6 +2,8 @@
 
 # Best APIs for Lead Gen
 
+<img src="assets/best-apis-for-lead-gen-hero.png" alt="Best APIs for Lead Gen hero image" width="1100">
+
 **A curated API directory for building lead generation products, automations, agency services, and outbound research workflows.**
 
 [![Curated APIs](https://img.shields.io/badge/Curated_APIs-30-2563eb?style=for-the-badge)](apis/)
