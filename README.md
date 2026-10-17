@@ -4,6 +4,18 @@
 
 <img src="assets/best-apis-for-lead-gen-hero.png" alt="Best APIs for Lead Gen hero image" width="1100">
 
+<!-- AIWITHCHRIS-BANNER-START -->
+<p align="center">
+  <a href="https://aiwithchris.com" target="_blank" rel="noopener">
+    <img src=".github/assets/ai-toolkit-banner.png" alt="Hey, I'm Chris — Work Smarter, Create Faster, Earn More With AI. Join my AI Playbook at aiwithchris.com, $10/month" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://aiwithchris.com"><strong>🚀 Join my AI Playbook — aiwithchris.com</strong></a><br>
+  $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
+</p>
+<!-- AIWITHCHRIS-BANNER-END -->
+
 **A curated API directory for building lead generation products, automations, agency services, and outbound research workflows.**
 
 [![Curated APIs](https://img.shields.io/badge/Curated_APIs-30-2563eb?style=for-the-badge)](apis/)
