@@ -36,3 +36,9 @@ This directory contains hand-picked API profiles for lead generation builders. E
 | [Tweet Scraper V2](tweet-scraper-v2.md) | Social signal monitoring | Intermediate |
 | [Trustpilot Reviews Scraper](trustpilot-reviews-scraper.md) | Review-triggered prospecting | Beginner |
 | [Zillow Contact API](zillow-contact-api.md) | Real estate investor leads | Advanced |
+| [Lead Contact Extractor API](lead-contact-extractor-api.md) | Lead contact discovery | Beginner |
+| [Email Finder API](email-finder-api.md) | Email finding | Beginner |
+| [Local Lead Finder](local-lead-finder.md) | Local lead lists | Beginner |
+| [Contact Extract API](contact-extract-api.md) | Text contact extraction | Beginner |
+| [Email Validate API](email-validate-api.md) | Email validation | Beginner |
+| [Company & Contact Intelligence](company-contact-intelligence.md) | Company and contact enrichment | Intermediate |
