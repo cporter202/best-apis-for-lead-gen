@@ -42,3 +42,4 @@ This directory contains hand-picked API profiles for lead generation builders. E
 | [Contact Extract API](contact-extract-api.md) | Text contact extraction | Beginner |
 | [Email Validate API](email-validate-api.md) | Email validation | Beginner |
 | [Company & Contact Intelligence](company-contact-intelligence.md) | Company and contact enrichment | Intermediate |
+| [Bulk Email Validator](bulk-email-validator.md) | Bulk email hygiene | Beginner |
